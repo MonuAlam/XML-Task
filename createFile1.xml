@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Company>
+<Employees id="1">
+<FIRSTNAME>Amit</FIRSTNAME>
+<LASTNAME>Sharma</LASTNAME>
+<ADDRESS>Delhi</ADDRESS>
+<SALARY>50000</SALARY>
+<DESIGNATION>Manager</DESIGNATION>
+</Employees>
+<Employees id="2">
+<FIRSTNAME>Neha</FIRSTNAME>
+<LASTNAME>Verma</LASTNAME>
+<ADDRESS>Mumbai</ADDRESS>
+<SALARY>45000</SALARY>
+<DESIGNATION>Developer</DESIGNATION>
+</Employees>
+<Employees id="3">
+<FIRSTNAME>Ravi</FIRSTNAME>
+<LASTNAME>Kumar</LASTNAME>
+<ADDRESS>Bangalore</ADDRESS>
+<SALARY>55000</SALARY>
+<DESIGNATION>Analyst</DESIGNATION>
+</Employees>
+<Employees id="4">
+<FIRSTNAME>Anjali</FIRSTNAME>
+<LASTNAME>Singh</LASTNAME>
+<ADDRESS>Chennai</ADDRESS>
+<SALARY>47000</SALARY>
+<DESIGNATION>Designer</DESIGNATION>
+</Employees>
+<Employees id="5">
+<FIRSTNAME>Vikas</FIRSTNAME>
+<LASTNAME>Patel</LASTNAME>
+<ADDRESS>Hyderabad</ADDRESS>
+<SALARY>53000</SALARY>
+<DESIGNATION>Consultant</DESIGNATION>
+</Employees>
+<Employees id="6">
+<FIRSTNAME>Cheeta</FIRSTNAME>
+<LASTNAME>007</LASTNAME>
+<ADDRESS>Noida</ADDRESS>
+<SALARY>13500</SALARY>
+<DESIGNATION>KYC</DESIGNATION>
+</Employees>
+</Company>
