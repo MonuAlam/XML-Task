@@ -17,6 +17,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 public class CreateXmlFromDatabase {
+	
 
     public static void main(String... args) {
 	    String driver="oracle.jdbc.driver.OracleDriver";
